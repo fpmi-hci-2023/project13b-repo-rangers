@@ -1,44 +1,36 @@
-## Пример учебного проекта
+## Project management system
 
-Для редактирования страниц используем [editor on GitHub](https://github.com/fpmi-tp2022/labrabota5t1-testproject/edit/main/docs/index.md). Формат файлов — 
-Markdown.
+Project management system is a team of four developers, each of whom actively contributes to the development and promotion of the project. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your 
-Markdown files.
+The application should allow users to add projects, form teams of participants, create and manage activities in the form of tasks. Activities should be 
 
-### Markdown
+displayed as a list and on the task board. Users should be given the opportunity to filter tasks by status (new, in progress, ready, closed), due dates and 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+type (task, error, etc.).
 
-```markdown
-Syntax highlighted code block
+## Additional specification
 
-# Header 1
-## Header 2
-### Header 3
+ограничения, требования к безопасности, надежности и другое. не знаю что добавить
 
-- Bulleted
-- List
+## API project
 
-1. Numbered
-2. List
+описание API и основные запросы не знаю
 
-**Bold** and _Italic_ and `Code` text
+## Application File Diagram
 
-[Link](url) and ![Image](src)
-```
+диаграмма файлов и описание. Лола добавит
 
-For more details see [Basic writing and formatting 
-syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Database schema
 
-### Jekyll Themes
+страница содержит схему базы данных в виде изображения и ссылку на sql-файл. не знаю
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository 
-settings](https://github.com/fpmi-tp2022/labrabota5t1-testproject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration 
-file.
+## Functional requirements
 
-### Support or Contact
+описание функциональных требований, диаграммы Use case, текстовые сценарии. Лола должна добавить
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact 
-support](https://support.github.com/contact) and we’ll help you sort it out.
+## Project presentation
+
+ссылка на презентацию проекта, в которой должно быть отражено распределение задач в команде, требования к приложению, схема базы данных, как была 
+организовано работа с репозиторием и проектом и др. будет
+
 
