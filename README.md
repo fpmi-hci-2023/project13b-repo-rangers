@@ -23,5 +23,5 @@ Lola -  Design, FrontEnd
 
 Kirill - Mobile, BackEnd
 
-Maks -  Backend, FrontEnd
+Max -  Backend, FrontEnd
 
